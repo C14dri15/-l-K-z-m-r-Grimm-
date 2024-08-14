@@ -11,7 +11,7 @@ const chalk = require('chalk')
 global.ownernomer = "237657873063"
 global.ownername = "*ël Käzämär Grimm 🌹 
 global.ytname = "YT: ël Käzämär"
-global.socialm = ""
+global.socialm = "'
 global.location = "EARTH,AFRICA"
 
 global.ownernumber = '237657873063'  //creator number
